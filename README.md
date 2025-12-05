@@ -1,14 +1,14 @@
-## 🚀 Projets en cours
+## 🚀 Current Projects
 
-- **[Brocolix](https://brocolix.fr)** — un site de planification de repas et de recettes de cuisine (Rust, SvelteKit, Postgres)
-- **[OSRD (Open Source Railway Designer)](https://github.com/OpenRailAssociation/osrd)** — contributions régulières sur la modélisation ferroviaire (Rust, Postgres, etc.)
+- **[Brocolix](https://brocolix.fr)** - a meal and recipe planning web app (Rust, SvelteKit, Postgres)
+- **[OSRD (Open Source Railway Designer)](https://github.com/OpenRailAssociation/osrd)** - contributions to railway modeling (Rust, Postgres, etc.)
 
-## 📫 Me contacter
+## 📫 Get in Touch
 
 - 🌐 [berezify.fr](https://berezify.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/egor-berezovskiy/)
 
-## 🧰 Mes technos favoris
+## 🧰 Favorite Tech Stack
 
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
